@@ -1,5 +1,3 @@
-# Jobins Jose Data Analyst Portfolio
-
 A professional portfolio website showcasing analytics and data science projects, including marketing analytics, fraud detection, and predictive modeling.
 
 ## Featured Projects
