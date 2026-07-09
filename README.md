@@ -30,7 +30,7 @@ A professional portfolio website showcasing analytics and data science projects,
 
 ## Live Portfolio
 
-Portfolio Website: [Add Netlify Link Here]
+Portfolio Website: https://jobinsjoseportfolio.netlify.app/
 
 ## Contact
 
